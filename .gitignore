@@ -1,0 +1,14 @@
+main.exe
+log
+log/*
+static/*
+files/*
+files
+
+.idea
+.vscode
+
+config.yaml
+.env
+docker
+client_secret.json
